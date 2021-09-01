@@ -68,6 +68,7 @@ Requires: rfkill
 #Requires: jolla-devicelock-daemon-encsfa
 Requires: sailfish-fpd-community 
 Requires: sailfish-devicelock-fpd
+Requires: droid-fake-crypt
 
 # Enable home encryption
 #Requires: sailfish-device-encryption
